@@ -1,0 +1,13 @@
+.delete-btn {
+  float: right;
+  color: red;
+  font-size: 14pt;
+  margin-top: -35px;
+}
+.list-overflow-container {
+  max-height: 545px;
+  border: 1px #dddddd solid;
+  border-radius: 4px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
